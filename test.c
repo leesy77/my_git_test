@@ -37,3 +37,11 @@ void lfDisplay_Charging_Animate(void)
     if (chargingY >= 43) chargingDir = -1;
     else if (chargingY <= 41) chargingDir = 1;
 }
+<<<<<<< HEAD
+=======
+
+void main(void)
+{
+    // main 추가 
+}
+>>>>>>> my_git_test/master
